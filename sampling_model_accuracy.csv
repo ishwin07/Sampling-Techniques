@@ -1,0 +1,6 @@
+Model,Sampling1,Sampling2,Sampling3,Sampling4,Sampling5
+M1_LogisticRegression,66.67,33.33,33.33,66.67,40.0
+M2_KNN,66.67,66.67,66.67,50.0,60.0
+M3_DecisionTree,83.33,66.67,66.67,66.67,100.0
+M4_RandomForest,50.0,50.0,50.0,50.0,60.0
+M5_SVM,66.67,66.67,66.67,50.0,60.0
